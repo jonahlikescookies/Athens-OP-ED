@@ -2,11 +2,11 @@ body {
   padding: 1in;
   font-family: 'times new roman', serif;
   border: 1px solid #000;
-  width: 11in;
-  height: 8.5in;
+  length: 11in;
+  width: 8.5in;
 }
 .bigheading {
-  font-size: 50px
+  font-size: 50px;
 }
 .normalheading {
   padding: 0;
