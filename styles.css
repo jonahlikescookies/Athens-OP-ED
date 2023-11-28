@@ -1,0 +1,26 @@
+body {
+  padding: 1in;
+  font-family: 'times new roman', serif;
+  border: 1px solid #000;
+  width: 11in;
+  height: 8.5in;
+}
+.bigheading {
+  font-size: 50px
+}
+.normalheading {
+  padding: 0;
+}
+.tinytitle {
+  padding: 0;
+  font-size: 15px;
+  text-align: right;
+}
+hr {
+  padding: 0px;
+}
+p {
+  display: inline-block;
+  vertical-align: top;
+  padding: 10px;
+}
